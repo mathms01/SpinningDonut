@@ -8,7 +8,7 @@ Juste un donut qui tourne en python
  # Pré-requis
  Installation de git : </br>
  https://gitforwindows.org/</br>
- Installation de python : </br>
+ Installation de python (py) : </br>
  https://www.python.org/downloads/</br>
  
  # Réseaux
